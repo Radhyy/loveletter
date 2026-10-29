@@ -600,6 +600,13 @@ body.dark-mode .theme-toggle .icon-sun {
   transform: scale(0.9);
 }
 
+@media (min-width: 601px) {
+  .flowers {
+    transform: scale(0.6);
+    transform-origin: bottom center;
+  }
+}
+
 .flower {
   position: absolute;
   bottom: 10vmin;
