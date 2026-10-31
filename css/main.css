@@ -484,6 +484,14 @@ body.dark-mode .theme-toggle .icon-sun {
   margin-bottom: 2px;
 }
 
+.letter-body .letter-subtext {
+  font-size: 14px;
+  color: #756f73;
+  line-height: 1.55;
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
 /* Footer Banner */
 .letter-footer {
   height: 48px;
@@ -575,6 +583,14 @@ body.dark-mode .theme-toggle .icon-sun {
   .letter-body .letter-ps {
     font-size: 12px;
     margin-top: 8px;
+  }
+
+  .letter-body .letter-subtext {
+    font-size: 12px;
+    line-height: 1.45;
+    color: #756f73;
+    margin-top: 10px;
+    margin-bottom: 4px;
   }
 
   .letter-footer {
